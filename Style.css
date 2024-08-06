@@ -1,1 +1,209 @@
+        .style {color:red
+      
+    } 
+    body {background-color:black;
+          text-align:left;
+          
+          
+          
+          
 
+}
+    
+ 
+   
+   .head {color:white;
+     font-size:15px;
+     
+   }
+   .main {color:blue;
+   font-size:50px;
+   
+   } 
+   .h4 {color:#B8B8BB;
+     
+     
+   }
+   
+  h2 {color:blue;}
+  
+ .Dec {color:white;
+       
+ }
+
+
+ 
+   
+  form {
+    padding:200px;
+    border-left:none;
+    border-right:none;
+    font-size:25px;
+    border-top:none ;
+    border-bottom:none;
+    border-radius:200rem
+    border-width:50px;
+    
+    
+    
+    
+    
+    
+  }
+  
+  
+  aside {
+         color:red;
+         font-size:25px;
+         font-style:italic;
+         font-family:;
+         float:none;
+  }
+  
+  section {background-color:rgba(40, 40, 40, 1);
+           border-bottom-left-radius:50px ;
+           border-bottom-right-radius:50px;
+           border-top-left-radius:50px ;
+           border-top-right-radius:50px;
+           
+    
+    
+  } 
+           
+    
+    
+ 
+
+div {margin:100px;
+     
+
+     
+    
+}
+
+
+input {color:black;
+       border:white;
+       width:316px;
+       height:50px;
+       font-size:30px;
+       font-style:;
+       background-color:#D3D3D3;
+} 
+
+
+       
+.nav {margin:10px;
+       color:white;
+       width:50px;
+       display: ;
+       
+  
+}
+       
+       
+
+li {list-style-type:circle;
+    
+} 
+
+
+button {background-color:red;
+        Width:300px;
+        font-size:100% ;
+        float:right ;
+        height:100px ;
+        border-radius:50px; 
+        cursor:not-allowed ;
+        animation:"pressed";
+       
+        
+        
+       
+        
+} 
+
+
+
+
+.l1 {color:limegreen;
+     border-top:none ;
+     border-bottom:none ;
+     border-left-style:;
+     border-right-style:;
+     border-spacing:10px;
+     border-radius:
+     border-color:limegreen;
+     
+     
+
+     
+
+     
+}
+.btm {padding:50px;
+      float:center;
+      color:#000000;
+      border-radius:50px;
+      width:100%;
+      font-size:25px;
+      background-color:hsla(316, 0%, 57%, 1);
+      text-decoration:underline;
+      text-align:center;
+      
+
+} 
+
+
+.svg {float:right;}
+      
+      
+      
+     .dis {color:blue;}
+    .in {background-color :#FFE62C;}
+    
+   #in2 {float:center;
+         
+   }
+   
+  .click {padding:100px;
+          border-top:dashed limegreen;
+          border-left:dashed limegreen;
+          border-right:dashed limegreen;
+          border-bottom:dashed limegreen;
+          border-radius:50px;
+          background-color:#616161;
+          
+  }
+  
+  
+  
+ #acp {color:blue;}
+ 
+ 
+ #vauth {background-color:#4A4A4A;
+         font-size:50px;
+         color:limegreen;
+         border-radius:25px;
+ }
+    
+
+
+   #authenticate {background-color:#F1A30E;
+            font-size:25px;
+            float:right;
+
+            
+     
+     
+   } 
+    
+    #lb {color:limegreen;
+         font-size:50px ;
+      
+      
+    }
+    
+    #checkbox {background-color:white ;}
+    
+    
